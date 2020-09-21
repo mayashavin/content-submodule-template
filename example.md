@@ -6,7 +6,7 @@ This is an example file for content.
 
 More example
 
-## Heading 2
+## Heading 2 + 3
 
 ## Heading 3
 
