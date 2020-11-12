@@ -8,4 +8,4 @@ More example
 
 ## Heading 2
 
-hello world 2020
+hello world
